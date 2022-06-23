@@ -1,5 +1,5 @@
 # KLASIFIKASI CITRA DERMATOSKOPIK PENYAKIT KANKER KULIT MENGGUNAKAN CONVOLUTIONAL NEURAL NETWORK
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1D7E9BesPtmxTYPN3cScZJ1w7XdpLhant/view?usp=sharing)<br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/huzaifi18/klasifikasi_citra_dermatoskopik/blob/main/Eksfis_FIX.ipynb)<br>
 Ini merupakan tugas mata kuliah eksperimen fisika
 Eksperimen ini berisi program untuk klasifikasi 100015 citra dermatoskopik dari dataset HAM10000 dengan tujuh jenis kanker kulit yaitu: 
 1. actinic keratosis (akiec)
